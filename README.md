@@ -39,11 +39,4 @@ Same Period Last Year
 - `My_Dashboard - PBI.pbix` – Power BI dashboard file  
 - `Mobile_Sales_Data.xlsx` – Sales data used in the report  
 - `Power_BI_Course_Certificate.pdf` – Course completion certificate  
-- `My_Dashboard.png`, `MTD_Report.png`,`Same_Period_Last_Year.png` – Dashboard preview images  
-
----
-
-## 🔗 More
-
-This project was completed as part of a certified Power BI course by [Mr. Satish Dhawale – Founder and CEO @ Skill Course].
-
+- `My_Dashboard.png`, `MTD_Report.png`,`Same_Period_Last_Year.png` – Dashboard preview images
